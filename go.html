@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex,nofollow">
+  <title>Weiterleitung</title>
+  <style>
+    :root {
+      --bg: #ffffff;
+      --text: #1a1a2e;
+      --muted: #6b7280;
+      --accent: #e8500a;
+      --border: #e5e7eb;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      min-height: 100vh;
+      margin: 0;
+      display: grid;
+      place-items: center;
+      background: var(--bg);
+      color: var(--text);
+      font-family: -apple-system, "Segoe UI", sans-serif;
+      line-height: 1.5;
+    }
+
+    main {
+      width: min(100% - 32px, 520px);
+      padding: 34px;
+      border: 1px solid var(--border);
+      border-radius: 18px;
+      text-align: center;
+      box-shadow: 0 18px 45px rgba(26, 26, 46, 0.08);
+    }
+
+    h1 {
+      margin: 0 0 10px;
+      font-family: Georgia, serif;
+      font-size: clamp(1.7rem, 8vw, 2.4rem);
+      line-height: 1.15;
+    }
+
+    p {
+      margin: 0 0 18px;
+      color: var(--muted);
+    }
+
+    a {
+      color: var(--accent);
+      font-weight: 800;
+    }
+  </style>
+  <script src="config.js"></script>
+</head>
+<body>
+  <main>
+    <h1>Weiterleitung</h1>
+    <p>Du wirst zum offiziellen Anbieter weitergeleitet.</p>
+    <p><a id="fallback-link" href="#" rel="nofollow noopener">Falls nichts passiert, hier klicken.</a></p>
+  </main>
+  <script>
+    (function () {
+      "use strict";
+
+      function isSafeTarget(url) {
+        return /^https?:\/\//i.test(url);
+      }
+
+      if (typeof CONFIG === "undefined" || !CONFIG.ctaUrl || !isSafeTarget(CONFIG.ctaUrl)) {
+        return;
+      }
+
+      var fallback = document.getElementById("fallback-link");
+      fallback.href = CONFIG.ctaUrl;
+      fallback.target = "_blank";
+      fallback.rel = "nofollow noopener";
+      window.location.replace(CONFIG.ctaUrl);
+    })();
+  </script>
+</body>
+</html>
