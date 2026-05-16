@@ -8,7 +8,7 @@ const CONFIG = {
   metaKeyword:        "Palmstick Defense Erfahrungen",
   canonical:          "https://produktempfehlungen.github.io/hammer-concept-palmstick/",
   ogImage:            "hhttps://produktempfehlungen.github.io/hammer-concept-palmstick/img/og.jpg",
-  googleVerification: "DEIN_CODE_HIER",
+  googleVerification: "vgL9lvv1zPt_mp0NkKA4sNhmY4wiUs8wf9fH9qUqQFA",
 
   // ══════════════════════════════════════════════════════
   //  BRANDING
