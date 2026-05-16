@@ -6,8 +6,8 @@ const CONFIG = {
   metaTitle:          "Hammer Concept Palmstick Defense Erfahrungen 2025 – Lohnt sich der Kurs wirklich?",
   metaDescription:    "Ich habe den Hammer Concept Palmstick Defense Onlinekurs 4 Wochen lang getestet. Kein Marketing-Blabla – nur mein ehrliches Fazit als Anfänger.",
   metaKeyword:        "Palmstick Defense Erfahrungen",
-  canonical:          "https://USERNAME.github.io/REPO/",
-  ogImage:            "https://USERNAME.github.io/REPO/img/og.jpg",
+  canonical:          "https://produktempfehlungen.github.io/hammer-concept-palmstick/",
+  ogImage:            "hhttps://produktempfehlungen.github.io/hammer-concept-palmstick/img/og.jpg",
   googleVerification: "DEIN_CODE_HIER",
 
   // ══════════════════════════════════════════════════════
