@@ -3,12 +3,11 @@ const CONFIG = {
   // ══════════════════════════════════════════════════════
   //  SEO
   // ══════════════════════════════════════════════════════
-  metaTitle:          "Hammer Concept Palmstick Defense Erfahrungen 2025 – Lohnt sich der Kurs wirklich?",
-  metaDescription:    "Ich habe den Hammer Concept Palmstick Defense Onlinekurs 4 Wochen lang getestet. Kein Marketing-Blabla – nur mein ehrliches Fazit als Anfänger.",
-  metaKeyword:        "Palmstick Defense Erfahrungen",
-  canonical:          "https://produktempfehlungen.github.io/hammer-concept-palmstick/",
-  ogImage:            "hhttps://produktempfehlungen.github.io/hammer-concept-palmstick/img/og.jpg",
-  googleVerification: "vgL9lvv1zPt_mp0NkKA4sNhmY4wiUs8wf9fH9qUqQFA",
+  metaTitle:          "Kubotan Anwendung für Anfänger 2026 – Was du wirklich wissen solltest",
+  metaDescription:    "Wie funktioniert die Kubotan Anwendung? Einfache Erklärung für Anfänger: Haltung, Training, typische Fehler, rechtliche Hinweise und sinnvoller Einstieg.",
+  metaKeyword:        "Kubotan Anwendung",
+  canonical:          "https://produktempfehlungen.github.io/kubotan-anwendung/",
+  ogImage:            "https://produktempfehlungen.github.io/kubotan-anwendung/img/og.jpg",
 
   // ══════════════════════════════════════════════════════
   //  BRANDING
@@ -19,100 +18,118 @@ const CONFIG = {
   // ══════════════════════════════════════════════════════
   //  ARTICLE HEADER
   // ══════════════════════════════════════════════════════
-  articleLabel: "⚡ Testergebnis 2025",
-  heroHeadline: "Ich habe den Hammer Concept Palmstick Defense Kurs 4 Wochen getestet – das hat mich überrascht",
-  heroSubline:  "Ein Selbstverteidigungskurs für Leute ohne Kampfsport-Erfahrung? Ich war skeptisch. Dann habe ich ihn einfach ausprobiert.",
-  authorName:   "Michael B., Wien",
-  authorDate:   "April 2025",
+  articleLabel: "🛡️ Anfänger-Guide 2026",
+  heroHeadline: "Kubotan Anwendung für Anfänger: Was du wissen solltest, bevor du damit herumläufst",
+  heroSubline:  "Ein Kubotan ist kein magischer Schutzschild. Entscheidend ist nicht der Gegenstand selbst, sondern ob du ihn sicher, ruhig und verantwortungsvoll einsetzen kannst.",
+  authorName:   "Michael B.",
+  authorDate:   "Mai 2026",
 
   // ══════════════════════════════════════════════════════
-  //  HOOK  (~100 Wörter)
+  //  HOOK
   // ══════════════════════════════════════════════════════
   hookText: `
-    <p>Es hat mit einem Erlebnis in der U-Bahn angefangen. Nichts Dramatisches – aber der Typ neben mir war
-    aggressiv, und ich habe gemerkt: <strong>ich wäre komplett hilflos gewesen.</strong> Kein Training,
-    keine Ahnung, keine Vorbereitung.</p>
+    <p>Viele kaufen sich einen Kubotan, Tactical Pen oder Palmstick und denken danach:
+    <strong>„Okay, jetzt bin ich vorbereitet.“</strong> Genau das ist der Fehler.</p>
 
-    <p>Ein Freund hat mir kurz danach den Hammer Concept Palmstick Defense Kurs empfohlen.
-    Ich habe gerollt mit den Augen. <em>Ein Online-Kurs für Selbstverteidigung?</em> Klingt nach YouTube-Gefrickel.
-    Aber weil mich das U-Bahn-Erlebnis nicht losgelassen hat, habe ich ihn trotzdem gekauft.</p>
+    <p>Die Wahrheit ist: Ein Kubotan bringt dir wenig, wenn du nicht weißt, wie du ihn hältst,
+    wann du Abstand suchst, wie du Stress kontrollierst und wann Weggehen die bessere Entscheidung ist.
+    Deshalb suchen so viele nach <strong>„Kubotan Anwendung“</strong>, <strong>„Kubotan Druckpunkte“</strong>
+    oder sogar nach einer <strong>„Kubotan Anwendung PDF“</strong>.</p>
 
-    <p>Hier ist, was ich nach 4 Wochen ehrlich sagen kann.</p>
+    <p>Hier bekommst du eine einfache, sichere und anfängerfreundliche Einordnung – ohne gefährliche Internet-Mythen.</p>
   `,
 
   // ══════════════════════════════════════════════════════
-  //  STORY SECTIONS  (~550 Wörter gesamt)
+  //  STORY SECTIONS
   // ══════════════════════════════════════════════════════
   storySections: [
     {
-      headline: "Was ist der Hammer Concept Palmstick Defense Kurs überhaupt?",
+      headline: "Was bedeutet Kubotan Anwendung überhaupt?",
       showH2:   true,
       text: `
-        <p>Bevor ich auf meinen Test eingehe: kurz zur Einordnung. Der Kurs wurde von <strong>Master Kai Kühn</strong>
-        entwickelt, einem Kampfkunstlehrer mit über 30 Jahren Erfahrung in Filipino Martial Arts (Latosa Escrima).
-        Das Konzept dahinter ist simpel: Du lernst, wie du einen <strong>Palmstick (auch Kubotan genannt)</strong>
-        oder ganz normale Alltagsgegenstände – Kugelschreiber, Taschenlampe, Schlüssel – in einer
-        echten Notwehrsituation einsetzt.</p>
+        <p>Bei der <strong>Kubotan Anwendung</strong> geht es nicht darum, möglichst brutal oder „gefährlich“
+        zu wirken. Ein Kubotan ist ein kurzer, stabiler Gegenstand, der in der Selbstverteidigung als
+        Hilfsmittel genutzt werden kann. Ähnliche Begriffe sind <strong>Palmstick</strong>,
+        <strong>Tactical Pen</strong>, <strong>Pocket Stick</strong> oder <strong>Yawara Stick</strong>.</p>
 
-        <p>Kein jahrelanges Training. Keine komplizierten Techniken. Die Philosophie lautet:
-        <strong>„Stumpf ist Trumpf."</strong> Wenige Bewegungen, die unter Stress wirklich funktionieren.
-        Der Kurs umfasst 26 Lektionen mit 3,5 Stunden Videomaterial plus zwei Bonus-Kurse.</p>
+        <p>Wichtig ist: Der Kubotan ersetzt kein Training, keine Aufmerksamkeit und keine Deeskalation.
+        Er ist nur ein Werkzeug. Und wie bei jedem Werkzeug entscheidet die Person dahinter, ob es sinnvoll,
+        sicher und kontrolliert genutzt wird.</p>
 
-        <p>Was mich sofort interessiert hat: <strong>Du brauchst kein spezielles Equipment.</strong>
-        Was du heute in der Jackentasche hast, reicht als Ausgangspunkt.</p>
+        <p>Falls du zuerst wissen willst, ob so ein Gegenstand überhaupt erlaubt ist, lies vorher die
+        <a href="/kubotan-legal-deutschland/">Einordnung zur Legalität des Kubotans in Deutschland</a>.
+        Legalität und Anwendung gehören bei diesem Thema zusammen.</p>
       `
     },
     {
-      headline: "Woche 1 & 2 – Erster Eindruck und die erste echte Überraschung",
+      headline: "Warum YouTube-Videos und PDFs oft nicht reichen",
       showH2:   true,
       text: `
-        <p>Ich habe die ersten Module an einem Abend durchgeschaut. Kai Kühn erklärt ruhig, klar,
-        ohne Selbstbeweihräucherung. Kein „Ich bin der beste Kämpfer der Welt"-Gehabe.
-        <strong>Er erklärt einfach, was funktioniert – und warum.</strong></p>
+        <p>Viele suchen nach <strong>„Kubotan Anwendung PDF“</strong> oder schauen sich ein paar kurze Videos an.
+        Das Problem: Einzelne Tipps wirken online oft simpel, aber in einer echten Stresssituation ist alles anders.
+        Puls hoch, Hände zittrig, Blickfeld enger, Entscheidungen langsamer.</p>
 
-        <p>Die erste echte Überraschung kam in Woche 2: Ich habe mit einem Freund ein paar Techniken
-        ausprobiert. Langsam, kontrolliert, ohne echte Kraft. Und ich habe gemerkt:
-        <strong>Das Zeug ist erschreckend effektiv.</strong> Nicht weil man besonders stark sein muss,
-        sondern weil die Hebelwirkung des Palmsticks physikalisch einfach Sinn ergibt.</p>
+        <p>Genau deshalb sind wilde Technik-Sammlungen für Anfänger meistens ungeeignet. Wenn du dir zehn verschiedene
+        Bewegungen ansiehst, kannst du unter Stress am Ende oft keine davon sauber abrufen. Sinnvoller ist ein
+        reduzierter Ansatz: wenige Prinzipien, klare Haltung, saubere Distanz und einfache Bewegungsmuster.</p>
 
-        <p>Was mir auch aufgefallen ist: Man denkt automatisch anders. Du fängst an, Alltagsgegenstände
-        als potenzielle Tools wahrzunehmen. Der Kugelschreiber auf dem Schreibtisch.
-        Die Taschenlampe im Rucksack. Das klingt paranoid – ist aber eher das Gegenteil.
-        <strong>Es fühlt sich beruhigend an.</strong></p>
+        <p>Ein guter Einstieg sollte dir also nicht nur zeigen, <em>was</em> ein Kubotan ist, sondern auch:
+        Wann ist Abstand besser? Wann sollte man gar nicht erst in Kontakt gehen? Wie vermeidet man Eskalation?
+        Und welche Rolle spielt Notwehr überhaupt?</p>
       `
     },
     {
-      headline: "Woche 3 & 4 – Was bleibt, wenn die Neuheit nachlässt?",
+      headline: "Typische Anfängerfehler bei Kubotan und Tactical Pen",
       showH2:   true,
       text: `
-        <p>In Woche 3 habe ich weniger intensiv trainiert. Und genau das ist der echte Test für jeden Kurs:
-        Was hängt, wenn man nicht mehr täglich dabei ist?</p>
+        <p>Der größte Fehler ist, den Kubotan als Garantie für Sicherheit zu sehen. Viele überschätzen das Werkzeug
+        und unterschätzen die Situation. Selbstverteidigung beginnt nicht erst beim Körperkontakt, sondern viel früher:
+        Umgebung wahrnehmen, Distanz halten, klare Grenzen setzen, Fluchtwege erkennen.</p>
 
-        <p>Überraschend viel. Die Grundbewegungen – Kai nennt sie „Entry" – sind so simpel gehalten,
-        dass sie sich ins Muskelgedächtnis einbrennen. <strong>Drei, vier Bewegungen, die gegen die
-        meisten Angriffssituationen funktionieren.</strong> Kein 50-Techniken-Katalog, den man
-        unter Stress nie abrufen könnte.</p>
+        <p>Der zweite Fehler: zu kompliziert denken. Manche Anfänger verlieren sich sofort in Begriffen wie
+        <strong>Kubotan Druckpunkte</strong>, Hebel, Nervenpunkte oder Spezialtechniken. Das klingt spannend,
+        ist aber für Einsteiger oft genau der falsche Fokus. Unter Stress funktionieren einfache Prinzipien besser
+        als filigrane Bewegungen.</p>
 
-        <p>Am Ende von Woche 4 mein Fazit: <strong>Ich fühle mich besser vorbereitet als vorher –
-        und das ist eigentlich alles, was ich wollte.</strong> Nicht zum Kämpfer werden.
-        Sondern weniger hilflos sein. Das hat der Kurs geliefert.</p>
+        <p>Der dritte Fehler ist fehlendes rechtliches Bewusstsein. Auch wenn ein Kubotan je nach Modell legal sein
+        kann, heißt das nicht, dass jeder Einsatz automatisch gerechtfertigt ist. Notwehr ist kein Freifahrtschein.
+        Deshalb sollte verantwortungsvolle Anwendung immer auch Grenzen und Verhältnismäßigkeit mitdenken.</p>
       `
     },
     {
-      headline: "Für wen ist der Kurs – und für wen nicht?",
+      headline: "Was Anfänger stattdessen lernen sollten",
       showH2:   true,
       text: `
-        <p><strong>Geeignet für:</strong> Menschen ohne Kampfsport-Erfahrung, die eine realistische
-        und schnell erlernbare Methode suchen. Besonders empfehlenswert für Frauen, die abends
-        oft allein unterwegs sind, oder Menschen die körperlich eher unterlegen wären.</p>
+        <p>Ein sinnvoller Einstieg in die Kubotan Anwendung sollte nicht mit „Tricks“ beginnen, sondern mit Grundlagen.
+        Dazu gehören Körperhaltung, Abstand, Aufmerksamkeit, sichere Griffhaltung und das Verständnis, wann ein
+        Hilfsmittel überhaupt relevant wird.</p>
 
-        <p><strong>Weniger geeignet für:</strong> Leute die tiefes Kampfsport-Training suchen oder
-        bereits Erfahrung in Kampfkünsten mitbringen. Der Kurs ist bewusst auf das
-        <em>absolute Minimum</em> reduziert – das ist seine Stärke, aber auch seine Grenze.</p>
+        <p>Für Anfänger ist besonders wichtig, dass Bewegungen einfach bleiben. Du brauchst keine Kampfsport-Karriere,
+        um dich besser vorbereitet zu fühlen. Aber du brauchst klare Abläufe, die du wiederholen kannst. Genau hier
+        unterscheiden sich strukturierte Kurse von zufälligen Social-Media-Clips.</p>
 
-        <p>Wichtiger Hinweis: <strong>Informier dich über die rechtliche Lage in deiner Region</strong>
-        bevor du einen Palmstick oder Kubotan kaufst und trägst. Die Gesetzeslage variiert in
-        Deutschland, Österreich und der Schweiz je nach Bundesland.</p>
+        <p>Der <strong>Hammer Concept Palmstick Defense Kurs</strong> setzt genau an dieser Stelle an: Palmstick,
+        Kubotan und Alltagsgegenstände werden nicht als „Wunderwaffe“ verkauft, sondern als Teil eines einfachen,
+        direkten Selbstverteidigungs-Konzepts für normale Menschen ohne Kampfsport-Erfahrung.</p>
+      `
+    },
+    {
+      headline: "Ist ein Onlinekurs für Kubotan Anwendung sinnvoll?",
+      showH2:   true,
+      text: `
+        <p>Natürlich ersetzt ein Onlinekurs kein echtes Training mit Partner, Trainer und Feedback. Aber für den Einstieg
+        kann ein guter Onlinekurs deutlich sinnvoller sein als planloses Googeln. Vor allem dann, wenn er klar strukturiert
+        ist und nicht nur einzelne Techniken aneinanderreiht.</p>
+
+        <p>Der Vorteil: Du kannst dir die Grundlagen in Ruhe ansehen, Inhalte wiederholen und zuerst verstehen, worum es
+        überhaupt geht. Gerade bei Themen wie Kubotan, Palmstick oder Tactical Pen ist das hilfreich, weil viele online
+        entweder übertreiben oder rechtlich unsauber argumentieren.</p>
+
+        <p>Wenn du bereits überlegst, einen Kubotan zu kaufen oder einen Tactical Pen mit dir zu führen, ist die bessere
+        Reihenfolge eigentlich: erst verstehen, dann kaufen, dann trainieren. Nicht umgekehrt.</p>
+
+        <p>Mehr zur Produkterfahrung findest du auch in unserem
+        <a href="/hammer-concept-palmstick/">Hammer Concept Palmstick Defense Erfahrungsbericht</a>.</p>
       `
     }
   ],
@@ -123,12 +140,12 @@ const CONFIG = {
   product: {
     name: "Hammer Concept Palmstick Defense",
     benefits: [
+      "✅ Onlinekurs für Kubotan, Palmstick & Tactical Pen",
       "✅ 26 Lektionen + 3,5 Stunden Videomaterial",
-      "✅ 2 Bonus-Kurse inklusive (ca. 80 Min.)",
-      "✅ Keine Vorkenntnisse nötig – sofort startbar",
-      "✅ Funktioniert mit Alltagsgegenständen (kein Kubotan nötig)",
-      "✅ Einmalzahlung – kein Abo",
-      "✅ Ratenzahlung ab 9,90 €/Monat möglich"
+      "✅ 2 Bonus-Kurse inklusive",
+      "✅ Für Anfänger ohne Kampfsport-Erfahrung geeignet",
+      "✅ Fokus auf einfache, direkte Prinzipien",
+      "✅ Auch mit Alltagsgegenständen anwendbar"
     ],
     rating:      "4.9",
     ratingCount: "847"
@@ -138,74 +155,78 @@ const CONFIG = {
   //  TRUST BADGES
   // ══════════════════════════════════════════════════════
   trustBadges: [
-    { icon: "🛡️", label: "Geprüfter Kursinhalt" },
-    { icon: "↩",  label: "Geld-zurück-Garantie" },
-    { icon: "🔒", label: "Sichere Zahlung" }
+    { icon: "🛡️", label: "Für Anfänger erklärt" },
+    { icon: "⚖️", label: "Mit rechtlichem Hinweis" },
+    { icon: "🎥", label: "Video-Kurs" }
   ],
 
   // ══════════════════════════════════════════════════════
   //  CTA
   // ══════════════════════════════════════════════════════
   ctaUrl:       "https://www.fma24.com/onlinekurse/palmstick-defense/#aff=timgollenz3216ab5",
-  ctaText:      "Jetzt Palmstick Defense Kurs ansehen →",
-  ctaTextShort: "Zum Kurs →",
-  ctaSubtext:   "✅ Einmalzahlung · Sofortiger Zugang · Offizieller Anbieter",
-  ctaUrgency:   "⚠️ Inkl. Bonus-Kurse – nur über diesen Link verfügbar",
+  ctaText:      "Kubotan & Palmstick Anwendung lernen →*",
+  ctaTextShort: "Zum Kurs →*",
+  ctaSubtext:   "✅ Sofortiger Zugang · Für Anfänger geeignet · Offizieller Anbieter",
+  ctaUrgency:   "⚠️ Nicht nur besitzen – richtig verstehen und verantwortungsvoll anwenden",
 
   // ══════════════════════════════════════════════════════
-  //  TESTIMONIALS  (angelehnt an echte Bewertungen)
+  //  TESTIMONIALS
   // ══════════════════════════════════════════════════════
   reviews: [
     {
       name:     "Andreas K.",
       location: "München",
       stars:    5,
-      text:     "Der Kurs ist klar strukturiert und die Techniken sind wirklich schnell erlernbar. Ich hätte nicht gedacht, dass ein Online-Kurs für Selbstverteidigung so viel Sinn ergibt – aber es funktioniert."
+      text:     "Ich hatte vorher nur ein paar YouTube-Videos gesehen. Der Kurs war deutlich strukturierter und hat mir geholfen, das Thema ruhiger und realistischer zu verstehen."
     },
     {
       name:     "Sabrina M.",
       location: "Hamburg",
       stars:    5,
-      text:     "Als Frau, die oft abends allein unterwegs ist, wollte ich einfach nicht mehr hilflos sein. Kein Schnörkel, direkt auf den Punkt. Genau das was ich gesucht habe."
+      text:     "Mir war wichtig, etwas Einfaches zu lernen, ohne direkt in einen Kampfsportverein zu gehen. Die Inhalte sind verständlich und nicht übertrieben dargestellt."
     },
     {
       name:     "Thomas R.",
       location: "Zürich",
       stars:    5,
-      text:     "Ich kenne einige Onlinekurse. Dies ist einer von wenigen, die rundum zu empfehlen sind. Klar strukturiert, umfassend aber nicht überladen. 5 Sterne."
+      text:     "Guter Einstieg in Palmstick, Kubotan und Selbstverteidigung. Besonders gut fand ich, dass es nicht um Show-Techniken geht, sondern um einfache Grundlagen."
     }
   ],
 
   // ══════════════════════════════════════════════════════
-  //  FAQ  (PAA-basiert)
+  //  FAQ
   // ══════════════════════════════════════════════════════
   faqs: [
     {
-      q: "Brauche ich einen Palmstick oder Kubotan um den Kurs zu machen?",
-      a: "Nein. Das ist das Besondere am Hammer Concept: Du lernst, wie du Alltagsgegenstände – Kugelschreiber, Taschenlampe, Schlüssel – genauso einsetzen kannst. Einen Palmstick kannst du zusätzlich kaufen, er ist aber keine Voraussetzung."
+      q: "Wie funktioniert die Kubotan Anwendung?",
+      a: "Ein Kubotan wird als kurzer, stabiler Hilfsgegenstand in der Selbstverteidigung genutzt. Für Anfänger sind vor allem Haltung, Distanz, Aufmerksamkeit und einfache Bewegungsmuster wichtig. Komplizierte Techniken sind für den Einstieg meist weniger sinnvoll."
     },
     {
-      q: "Ist ein Kubotan in Deutschland, Österreich und der Schweiz legal?",
-      a: "Die Rechtslage variiert je nach Region und Nutzung. In manchen Bundesländern ist das Tragen in der Öffentlichkeit eingeschränkt. Informiere dich vor dem Kauf über die lokale Gesetzeslage. Der Onlinekurs selbst ist überall legal und uneingeschränkt nutzbar."
+      q: "Kann man Kubotan Anwendung aus einer PDF lernen?",
+      a: "Eine PDF kann Begriffe erklären, ersetzt aber kein strukturiertes Training. Gerade bei Selbstverteidigung ist es wichtig, Bewegungen wiederholt, kontrolliert und verantwortungsvoll zu üben."
     },
     {
-      q: "Brauche ich Kampfsport-Erfahrung für den Kurs?",
-      a: "Keinerlei Vorkenntnisse nötig. Der Kurs ist explizit für Anfänger ohne Kampfsport-Hintergrund konzipiert. Die Techniken sind bewusst einfach gehalten, damit sie unter Stress auch wirklich abrufbar sind."
+      q: "Sind Kubotan Druckpunkte wichtig?",
+      a: "Viele Einsteiger suchen nach Druckpunkten, aber für Anfänger ist das oft der falsche Fokus. Unter Stress funktionieren einfache Prinzipien, Abstand und klare Bewegungen meist besser als feine Spezialtechniken."
     },
     {
-      q: "Was bekomme ich genau – wie viele Videos sind enthalten?",
-      a: "26 Lektionen mit insgesamt 3,5 Stunden Videomaterial sowie 2 Bonus-Kurse mit ca. 80 Minuten zusätzlichem Content. Einmalzahlung, kein Abo – Ratenzahlung ab 9,90 €/Monat möglich."
+      q: "Ist ein Tactical Pen das gleiche wie ein Kubotan?",
+      a: "Nicht genau, aber ähnlich. Ein Tactical Pen ist ein stabiler Kugelschreiber, der teilweise ähnlich wie ein Palmstick oder Kubotan genutzt werden kann. Entscheidend sind Bauart, Legalität und verantwortungsvolle Anwendung."
     },
     {
-      q: "Gibt es eine Geld-zurück-Garantie?",
-      a: "Ja. Der Kurs wird über Digistore24 abgewickelt, was Käuferschutz beinhaltet. Die genauen Garantiebedingungen findest du direkt auf der Checkout-Seite des Anbieters."
+      q: "Braucht man Kampfsport-Erfahrung für Kubotan Anwendung?",
+      a: "Nein. Ein anfängerfreundlicher Kurs sollte ohne Kampfsport-Erfahrung verständlich sein. Wichtig ist aber, dass man nicht nur den Gegenstand besitzt, sondern Grundlagen und Grenzen versteht."
+    },
+    {
+      q: "Ist ein Kubotan in Deutschland legal?",
+      a: "Die rechtliche Einordnung hängt von Bauart, Situation und Ort ab. Für die ausführliche Erklärung lies unsere Seite zu Kubotan legal in Deutschland. Dieser Artikel ersetzt keine Rechtsberatung."
     }
   ],
 
   // ══════════════════════════════════════════════════════
   //  FOOTER
   // ══════════════════════════════════════════════════════
-  footerDisclaimer: "* Dieser Erfahrungsbericht enthält Affiliate-Links. Wenn du über unsere Links kaufst, erhalten wir eine Provision – für dich entstehen keine zusätzlichen Kosten. Unsere Meinung bleibt davon unbeeinflusst.",
+  footerDisclaimer: "* Dieser Artikel ist keine Rechtsberatung und keine Aufforderung zur Gewalt. Selbstverteidigung sollte immer verantwortungsvoll, verhältnismäßig und im Rahmen der geltenden Gesetze verstanden werden. Dieser Beitrag enthält Affiliate-Links. Wenn du über unsere Links kaufst, erhalten wir eine Provision – für dich entstehen keine zusätzlichen Kosten.",
   footerLinks: [
     { text: "Impressum",   url: "#" },
     { text: "Datenschutz", url: "#" },
